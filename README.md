@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Jefersson Kevin Quicaña Erquinio
 
+I am a student in the field of Computer Science at the University of Engineering and Technology in Peru. Currently, I am in my 6th semester. I enjoy developing solutions and tackling problems using the latest technologies in the world.
+
 ### 🚀 About Me
 - 🌱 Currently learning: **Automation, APIs, Consumer APIs, AI**.
-- 💬 Ask me about: **I am interested in automation, integrating AI into applications, and working with systems that utilize the SUNAT API**.
+- 💬 Ask me about: **I am interested in automation, integrating AI into applications, and working with systems that utilize the SUNAT**.
 - 📫 How to reach me: **[jefersson.14qe@gmail.com](mailto:jefersson.14qe@gmail.com), [LinkedIn](https://www.linkedin.com/in/jefersson-kevin-quica%C3%B1a-erquinio-0b570b280/)**
 - 🌍 Languages: **Spanish, English (A2 Level)**
 

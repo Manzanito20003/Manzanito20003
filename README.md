@@ -23,8 +23,17 @@ I am a student in the field of Computer Science at the University of Engineering
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=Manzanito20003&show_icons=true&theme=radical)
 
 ### 📂 Featured Projects
-- [ginai_async_in_Keypad](https://github.com/Manzanito20003/Chatgpt_async_in_Keypad.git): This project uses OCR to detect characters, find a word, and return coordinates. It can also send the data to Gemini.
-- [Store Virtual](https://github.com/Manzanito20003/Fronted_final.git): This project is about an online store for managing products.
+
+- [System with Scraper and SUNAT Integration](https://github.com/Manzanito20003/sistem_with_scraper_send_sunat):  
+  Project focused on automating the process of sending invoices to **SUNAT** using **Selenium** and **Gemini AI API**. It improved my skills in web scraping, automation, and AI integration.
+
+- [Music Recommendation System](https://github.com/Manzanito20003/Recomendador_musica):  
+  Music recommendation engine based on **acoustic similarity** using **MFCC feature extraction** and **K-Means clustering**. It provides recommendations based on cosine similarity and other distance metrics.
+- [ginai_async_in_Keypad](https://github.com/Manzanito20003/Chatgpt_async_in_Keypad.git):  
+  Project that integrates **OCR** for character recognition, word detection, and coordinate extraction. It also supports sending the processed data to **Gemini** for further analysis.
+
+- [Store Virtual](https://github.com/Manzanito20003/Fronted_final.git):  
+  Web-based **online store** designed for product management, enabling functionalities such as product visualization, inventory control, and basic e-commerce features.
 
 ### 💡 Inspiring Quote
 _"If you can imagine it, you can program it."_

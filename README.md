@@ -6,7 +6,7 @@ I am a student in the field of Computer Science at the University of Engineering
 - 🌱 Currently learning: **Automation, APIs, Consumer APIs, AI, and Cloud Computing**.
 - 💬 about me: **I am interested in automation, integrating AI into applications, working with SQL and NoSQL databases, and leveraging AWS for cloud-based solutions. I also have experience working with systems that utilize the SUNAT API.**
 - 📫 How to reach me: **[jefersson.14qe@gmail.com](mailto:jefersson.14qe@gmail.com), [LinkedIn](https://www.linkedin.com/in/jefersson-kevin-quica%C3%B1a-erquinio-0b570b280/)**
-- 🌍 Languages: **Spanish, English (A2 Level)**
+- 🌍 Languages: **Spanish, English (B1 Level)**
 
 ### 🛠️ Technologies and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,6 +34,9 @@ I am a student in the field of Computer Science at the University of Engineering
 
 - [Store Virtual](https://github.com/Manzanito20003/Fronted_final.git):  
   Web-based **online store** designed for product management, enabling functionalities such as product visualization, inventory control, and basic e-commerce features.
+  
+- [Scraping Dólar SUNAT](https://github.com/Manzanito20003/Scraper-Sunat-Dolar.git):  
+  Python-based **web scraping** tool that extracts monthly dollar exchange rates from SUNAT and stores them in CSV for analysis.
 
 ### 💡 Inspiring Quote
 _"If you can imagine it, you can program it."_
